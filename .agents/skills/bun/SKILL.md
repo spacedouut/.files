@@ -1,5 +1,5 @@
 ---
-name: Bun
+name: bun
 description: Use when building, testing, or deploying JavaScript/TypeScript applications. Reach for Bun when you need to run scripts, install packages, bundle code, or test applications — it's a drop-in replacement for Node.js with integrated package manager, test runner, and bundler.
 metadata:
     mintlify-proj: bun

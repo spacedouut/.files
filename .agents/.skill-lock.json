@@ -53,7 +53,7 @@
       "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
       "pluginName": "example-skills",
       "installedAt": "2026-04-14T22:39:27.734Z",
-      "updatedAt": "2026-05-14T02:57:13.630Z"
+      "updatedAt": "2026-05-16T00:16:20.627Z"
     },
     "agent-browser": {
       "source": "vercel-labs/agent-browser",

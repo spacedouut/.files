@@ -22,3 +22,4 @@ You are free to change this file as you please (~/.agents/AGENTS.md), as chats g
 
 # Pi Itself
 Pi is highly extensible via. extensions. Use them whenever possible; editing the core just isn't a good idea. Get creative; you can literally run Doom if you want to.
+

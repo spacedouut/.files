@@ -17,3 +17,9 @@ eval "$(starship init zsh)"
 
 # Env Variables
 source ~/.zshenv
+export HOMEBREW_NO_AUTO_UPDATE=1
+export PATH="/usr/local/opt/rustup/bin:$PATH"
+export PATH="$HOME/.cargo/bin:$PATH"
+
+# Added by Windsurf
+export PATH="/Users/asherriggins/.codeium/windsurf/bin:$PATH"

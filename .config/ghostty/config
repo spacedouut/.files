@@ -1,0 +1,10 @@
+window-decoration = true
+cursor-style = bar
+cursor-style-blink = false
+
+quick-terminal-position = top
+# keybind = global:cmd+grave=toggle_quick_terminal
+
+mouse-hide-while-typing = true
+
+shell-integration = zsh

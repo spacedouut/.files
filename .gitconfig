@@ -1,0 +1,13 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = spaced
+	email = asherlr2@gmail.com
+	signingkey = BEA49C198C5FD3D5
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "WebFetch",
+      "WebSearch",
+      "Write",
+      "Read",
+      "Edit"
+    ]
+  },
+  "enabledPlugins": {
+    "github@claude-plugins-official": true,
+    "greptile@claude-plugins-official": true
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "effortLevel": "low"
+}
